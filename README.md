@@ -20,8 +20,8 @@ The system uses HTTPS to secure the connection between the employee and the payr
 
 ## Installation
 To run the project, you need to have Java and Spring Framework installed on your machine. 
-1. Clone the repository using `git clone https://github.com/<repo_name>.git`
-2. Navigate to the project directory using `cd <repo_name>`
+1. Clone the repository using `git clone https://github.com/hyperskill-account-service.git`
+2. Navigate to the project directory using `cd hyperskill-account-service`
 3. Run the project using `./mvnw spring-boot:run`
 
 ## Contributing
@@ -31,4 +31,4 @@ To contribute to the project, please follow the [contributing guidelines](CONTRI
 The project is licensed under the [MIT License](LICENSE)
 
 ## Contact
-For any questions or inquiries, please open an issue or reach out to the project maintainers.
+For any questions or inquiries, please open an issue or reach out to [Don Isiko](thecodingdon@googlemail.com)
