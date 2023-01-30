@@ -1,0 +1,1638 @@
+2022-12-31 17:20:48 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:20:49 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:20:51 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 17:27:28 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:27:29 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:27:31 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 17:31:33 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:31:34 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:31:36 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 17:31:40 [http-nio-28852-exec-7] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:31:42 [http-nio-28852-exec-10] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:31:46 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 17:35:50 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:35:52 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:35:54 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 17:35:58 [http-nio-28852-exec-8] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:36:00 [http-nio-28852-exec-10] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:36:03 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 17:39:05 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:39:06 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:39:08 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 17:39:12 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:39:13 [http-nio-28852-exec-3] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:39:17 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 17:39:19 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 17:39:21 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 17:39:40 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 17:39:42 [http-nio-28852-exec-5] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 17:39:44 [http-nio-28852-exec-8] INFO  security.event.logger - DELETE_USER
+2022-12-31 17:39:48 [http-nio-28852-exec-9] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 17:39:50 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:39:52 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:39:53 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:39:55 [http-nio-28852-exec-8] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:39:57 [http-nio-28852-exec-9] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:39:59 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:51:50 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 17:51:50 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:51:50 [http-nio-28852-exec-1] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CREATE_USER",
+  "subject" : "Anonymous",
+  "object" : "johndoe@acme.com",
+  "path" : "/api/auth/signup"
+}
+2022-12-31 17:51:52 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 17:51:52 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:51:52 [http-nio-28852-exec-2] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CREATE_USER",
+  "subject" : "Anonymous",
+  "object" : "ivanivanov@acme.com",
+  "path" : "/api/auth/signup"
+}
+2022-12-31 17:51:54 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 17:51:54 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 17:51:54 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "GRANT_ROLE",
+  "subject" : "johndoe@acme.com",
+  "object" : "Grant role AUDITOR to ivanivanov@acme.com",
+  "path" : "/api/admin/user/role"
+}
+2022-12-31 17:51:58 [http-nio-28852-exec-8] INFO  security.event.logger - Anonymous
+2022-12-31 17:51:58 [http-nio-28852-exec-8] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:51:58 [http-nio-28852-exec-8] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CREATE_USER",
+  "subject" : "Anonymous",
+  "object" : "maxmustermann@acme.com",
+  "path" : "/api/auth/signup"
+}
+2022-12-31 17:52:00 [http-nio-28852-exec-10] INFO  security.event.logger - Anonymous
+2022-12-31 17:52:00 [http-nio-28852-exec-10] INFO  security.event.logger - CREATE_USER
+2022-12-31 17:52:00 [http-nio-28852-exec-10] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CREATE_USER",
+  "subject" : "Anonymous",
+  "object" : "petrpetrov@acme.com",
+  "path" : "/api/auth/signup"
+}
+2022-12-31 17:52:04 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 17:52:04 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 17:52:04 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 17:52:06 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 17:52:06 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 17:52:06 [http-nio-28852-exec-6] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@google.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 17:52:08 [http-nio-28852-exec-8] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 17:52:08 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 17:52:08 [http-nio-28852-exec-8] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "nautilus@pompilius.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 17:52:27 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 17:52:27 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 17:52:27 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "GRANT_ROLE",
+  "subject" : "johndoe@acme.com",
+  "object" : "Grant role ACCOUNTANT to petrpetrov@acme.com",
+  "path" : "/api/admin/user/role"
+}
+2022-12-31 17:52:28 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 17:52:28 [http-nio-28852-exec-5] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 17:52:28 [http-nio-28852-exec-5] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "REMOVE_ROLE",
+  "subject" : "johndoe@acme.com",
+  "object" : "Remove role ACCOUNTANT from petrpetrov@acme.com",
+  "path" : "/api/admin/user/role"
+}
+2022-12-31 17:52:31 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 17:52:31 [http-nio-28852-exec-7] INFO  security.event.logger - DELETE_USER
+2022-12-31 17:52:31 [http-nio-28852-exec-7] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "DELETE_USER",
+  "subject" : "johndoe@acme.com",
+  "object" : "petrpetrov@acme.com",
+  "path" : "/api/admin/user/petrpetrov@acme.com"
+}
+2022-12-31 17:52:34 [http-nio-28852-exec-9] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 17:52:34 [http-nio-28852-exec-9] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 17:52:34 [http-nio-28852-exec-9] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CHANGE_PASSWORD",
+  "subject" : "johndoe@acme.com",
+  "object" : "johndoe@acme.com",
+  "path" : "/api/auth/changepass"
+}
+2022-12-31 17:52:36 [http-nio-28852-exec-1] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 17:52:36 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:52:36 [http-nio-28852-exec-1] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "ivanivanov@acme.com",
+  "object" : "/api/admin/user/role",
+  "path" : "/api/admin/user/role"
+}
+2022-12-31 17:52:38 [http-nio-28852-exec-3] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 17:52:38 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:52:38 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "ivanivanov@acme.com",
+  "object" : "/api/admin/user/",
+  "path" : "/api/admin/user/"
+}
+2022-12-31 17:52:40 [http-nio-28852-exec-5] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 17:52:40 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:52:40 [http-nio-28852-exec-5] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "ivanivanov@acme.com",
+  "object" : "/api/admin/user/",
+  "path" : "/api/admin/user/"
+}
+2022-12-31 17:52:42 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 17:52:42 [http-nio-28852-exec-8] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:52:42 [http-nio-28852-exec-8] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "johndoe@acme.com",
+  "object" : "/api/acct/payments",
+  "path" : "/api/acct/payments"
+}
+2022-12-31 17:52:44 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 17:52:44 [http-nio-28852-exec-9] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:52:44 [http-nio-28852-exec-9] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/acct/payments",
+  "path" : "/api/acct/payments"
+}
+2022-12-31 17:52:46 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 17:52:46 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 17:52:46 [http-nio-28852-exec-1] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "johndoe@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:01:23 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 18:01:23 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:01:23 [http-nio-28852-exec-1] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CREATE_USER",
+  "subject" : "Anonymous",
+  "object" : "johndoe@acme.com",
+  "path" : "/api/auth/signup"
+}
+2022-12-31 18:01:24 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 18:01:24 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:01:24 [http-nio-28852-exec-2] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CREATE_USER",
+  "subject" : "Anonymous",
+  "object" : "ivanivanov@acme.com",
+  "path" : "/api/auth/signup"
+}
+2022-12-31 18:01:26 [http-nio-28852-exec-4] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:01:26 [http-nio-28852-exec-4] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:01:26 [http-nio-28852-exec-4] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "GRANT_ROLE",
+  "subject" : "johndoe@acme.com",
+  "object" : "Grant role AUDITOR to ivanivanov@acme.com",
+  "path" : "/api/admin/user/role"
+}
+2022-12-31 18:01:30 [http-nio-28852-exec-7] INFO  security.event.logger - Anonymous
+2022-12-31 18:01:30 [http-nio-28852-exec-7] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:01:30 [http-nio-28852-exec-7] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CREATE_USER",
+  "subject" : "Anonymous",
+  "object" : "maxmustermann@acme.com",
+  "path" : "/api/auth/signup"
+}
+2022-12-31 18:01:32 [http-nio-28852-exec-10] INFO  security.event.logger - Anonymous
+2022-12-31 18:01:32 [http-nio-28852-exec-10] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:01:32 [http-nio-28852-exec-10] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CREATE_USER",
+  "subject" : "Anonymous",
+  "object" : "petrpetrov@acme.com",
+  "path" : "/api/auth/signup"
+}
+2022-12-31 18:01:36 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:01:36 [http-nio-28852-exec-4] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:01:36 [http-nio-28852-exec-4] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:01:38 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 18:01:38 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:01:38 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@google.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:01:40 [http-nio-28852-exec-7] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 18:01:40 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:01:40 [http-nio-28852-exec-7] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "nautilus@pompilius.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:01:58 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:01:58 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:01:58 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "GRANT_ROLE",
+  "subject" : "johndoe@acme.com",
+  "object" : "Grant role ACCOUNTANT to petrpetrov@acme.com",
+  "path" : "/api/admin/user/role"
+}
+2022-12-31 18:02:00 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:02:00 [http-nio-28852-exec-7] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 18:02:00 [http-nio-28852-exec-7] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "REMOVE_ROLE",
+  "subject" : "johndoe@acme.com",
+  "object" : "Remove role ACCOUNTANT from petrpetrov@acme.com",
+  "path" : "/api/admin/user/role"
+}
+2022-12-31 18:02:02 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:02:02 [http-nio-28852-exec-8] INFO  security.event.logger - DELETE_USER
+2022-12-31 18:02:02 [http-nio-28852-exec-8] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "DELETE_USER",
+  "subject" : "johndoe@acme.com",
+  "object" : "petrpetrov@acme.com",
+  "path" : "/api/admin/user/petrpetrov@acme.com"
+}
+2022-12-31 18:02:06 [http-nio-28852-exec-10] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:02:06 [http-nio-28852-exec-10] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 18:02:06 [http-nio-28852-exec-10] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "CHANGE_PASSWORD",
+  "subject" : "johndoe@acme.com",
+  "object" : "johndoe@acme.com",
+  "path" : "/api/auth/changepass"
+}
+2022-12-31 18:02:08 [http-nio-28852-exec-2] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:02:08 [http-nio-28852-exec-2] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:02:08 [http-nio-28852-exec-2] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "ivanivanov@acme.com",
+  "object" : "/api/admin/user/role",
+  "path" : "/api/admin/user/role"
+}
+2022-12-31 18:02:10 [http-nio-28852-exec-3] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:02:10 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:02:10 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "ivanivanov@acme.com",
+  "object" : "/api/admin/user/",
+  "path" : "/api/admin/user/"
+}
+2022-12-31 18:02:12 [http-nio-28852-exec-7] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:02:12 [http-nio-28852-exec-7] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:02:12 [http-nio-28852-exec-7] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "ivanivanov@acme.com",
+  "object" : "/api/admin/user/",
+  "path" : "/api/admin/user/"
+}
+2022-12-31 18:02:14 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:02:14 [http-nio-28852-exec-8] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:02:14 [http-nio-28852-exec-8] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "johndoe@acme.com",
+  "object" : "/api/acct/payments",
+  "path" : "/api/acct/payments"
+}
+2022-12-31 18:02:16 [http-nio-28852-exec-10] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:16 [http-nio-28852-exec-10] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:02:16 [http-nio-28852-exec-10] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/acct/payments",
+  "path" : "/api/acct/payments"
+}
+2022-12-31 18:02:18 [http-nio-28852-exec-2] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:02:18 [http-nio-28852-exec-2] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:02:18 [http-nio-28852-exec-2] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "johndoe@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:02:20 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:02:20 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:02:20 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "ACCESS_DENIED",
+  "subject" : "johndoe@acme.com",
+  "object" : "/api/security/events/",
+  "path" : "/api/security/events/"
+}
+2022-12-31 18:02:21 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:21 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:02:21 [http-nio-28852-exec-7] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:02:24 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:24 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:02:24 [http-nio-28852-exec-8] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:02:25 [http-nio-28852-exec-10] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:25 [http-nio-28852-exec-10] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:02:25 [http-nio-28852-exec-10] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:02:27 [http-nio-28852-exec-2] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:27 [http-nio-28852-exec-2] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:02:27 [http-nio-28852-exec-2] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "BRUTE_FORCE",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - LOCK_USER
+2022-12-31 18:02:29 [http-nio-28852-exec-3] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOCK_USER",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:02:30 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:02:30 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:02:30 [http-nio-28852-exec-7] INFO  security.event.logger - {
+  "id" : null,
+  "date" : {
+    "year" : 2022,
+    "month" : "DECEMBER",
+    "monthValue" : 12,
+    "dayOfMonth" : 31,
+    "chronology" : {
+      "id" : "ISO",
+      "calendarType" : "iso8601"
+    },
+    "dayOfWeek" : "SATURDAY",
+    "leapYear" : false,
+    "dayOfYear" : 365,
+    "era" : "CE"
+  },
+  "action" : "LOGIN_FAILED",
+  "subject" : "maxmustermann@acme.com",
+  "object" : "/api/empl/payment",
+  "path" : "/api/empl/payment"
+}
+2022-12-31 18:09:51 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 18:09:51 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:09:52 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 18:09:52 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:09:54 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:09:54 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:09:58 [http-nio-28852-exec-7] INFO  security.event.logger - Anonymous
+2022-12-31 18:09:58 [http-nio-28852-exec-7] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:10:00 [http-nio-28852-exec-9] INFO  security.event.logger - Anonymous
+2022-12-31 18:10:00 [http-nio-28852-exec-9] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:11:40 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 18:11:40 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:11:41 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 18:11:41 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:11:43 [http-nio-28852-exec-4] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:11:43 [http-nio-28852-exec-4] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:11:47 [http-nio-28852-exec-8] INFO  security.event.logger - Anonymous
+2022-12-31 18:11:47 [http-nio-28852-exec-8] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:11:49 [http-nio-28852-exec-10] INFO  security.event.logger - Anonymous
+2022-12-31 18:11:49 [http-nio-28852-exec-10] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:27:49 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 18:27:49 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:27:50 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 18:27:50 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:27:52 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:27:52 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:27:56 [http-nio-28852-exec-7] INFO  security.event.logger - Anonymous
+2022-12-31 18:27:56 [http-nio-28852-exec-7] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:27:58 [http-nio-28852-exec-9] INFO  security.event.logger - Anonymous
+2022-12-31 18:27:58 [http-nio-28852-exec-9] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:28:02 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:02 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:28:04 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 18:28:04 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:28:05 [http-nio-28852-exec-7] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 18:28:05 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:28:24 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:28:24 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:28:26 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:28:26 [http-nio-28852-exec-5] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 18:28:28 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:28:28 [http-nio-28852-exec-7] INFO  security.event.logger - DELETE_USER
+2022-12-31 18:28:32 [http-nio-28852-exec-9] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:28:32 [http-nio-28852-exec-9] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 18:28:34 [http-nio-28852-exec-1] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:28:34 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:28:36 [http-nio-28852-exec-4] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:28:36 [http-nio-28852-exec-4] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:28:38 [http-nio-28852-exec-5] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:28:38 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:28:40 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:28:40 [http-nio-28852-exec-7] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:28:41 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:41 [http-nio-28852-exec-9] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:28:43 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:28:43 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:28:45 [http-nio-28852-exec-2] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:28:45 [http-nio-28852-exec-2] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:28:47 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:47 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:28:49 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:49 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:28:51 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:51 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:28:53 [http-nio-28852-exec-10] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:53 [http-nio-28852-exec-10] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:28:55 [http-nio-28852-exec-11] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:55 [http-nio-28852-exec-11] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:28:55 [http-nio-28852-exec-11] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:55 [http-nio-28852-exec-11] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 18:28:55 [http-nio-28852-exec-11] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:55 [http-nio-28852-exec-11] INFO  security.event.logger - LOCK_USER
+2022-12-31 18:28:56 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:28:56 [http-nio-28852-exec-4] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:34:36 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 18:34:36 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:34:37 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 18:34:37 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:34:39 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:34:39 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:34:43 [http-nio-28852-exec-7] INFO  security.event.logger - Anonymous
+2022-12-31 18:34:43 [http-nio-28852-exec-7] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:34:45 [http-nio-28852-exec-9] INFO  security.event.logger - Anonymous
+2022-12-31 18:34:45 [http-nio-28852-exec-9] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:34:49 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:34:49 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:34:51 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 18:34:51 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:34:53 [http-nio-28852-exec-7] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 18:34:53 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:35:11 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:35:11 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:35:13 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:35:13 [http-nio-28852-exec-7] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 18:35:15 [http-nio-28852-exec-9] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:35:15 [http-nio-28852-exec-9] INFO  security.event.logger - DELETE_USER
+2022-12-31 18:35:19 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:35:19 [http-nio-28852-exec-1] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 18:35:21 [http-nio-28852-exec-3] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:35:21 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:35:23 [http-nio-28852-exec-6] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:35:23 [http-nio-28852-exec-6] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:35:25 [http-nio-28852-exec-7] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:35:25 [http-nio-28852-exec-7] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:35:27 [http-nio-28852-exec-9] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:35:27 [http-nio-28852-exec-9] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:35:29 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:29 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:35:31 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:35:31 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:35:32 [http-nio-28852-exec-6] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:35:32 [http-nio-28852-exec-6] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:35:34 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:34 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:35:36 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:36 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:35:38 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:38 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:35:40 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:40 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:35:42 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:42 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:35:42 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:42 [http-nio-28852-exec-7] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 18:35:42 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:42 [http-nio-28852-exec-7] INFO  security.event.logger - LOCK_USER
+2022-12-31 18:35:43 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:35:43 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:51:18 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 18:51:18 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:51:19 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 18:51:19 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:51:22 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:51:22 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:51:26 [http-nio-28852-exec-8] INFO  security.event.logger - Anonymous
+2022-12-31 18:51:26 [http-nio-28852-exec-8] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:51:27 [http-nio-28852-exec-10] INFO  security.event.logger - Anonymous
+2022-12-31 18:51:27 [http-nio-28852-exec-10] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:51:31 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:51:31 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:51:33 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 18:51:33 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:51:35 [http-nio-28852-exec-8] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 18:51:35 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:51:54 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:51:54 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:51:56 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:51:56 [http-nio-28852-exec-5] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 18:51:58 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:51:58 [http-nio-28852-exec-7] INFO  security.event.logger - DELETE_USER
+2022-12-31 18:52:02 [http-nio-28852-exec-9] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:52:02 [http-nio-28852-exec-9] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 18:52:04 [http-nio-28852-exec-1] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:52:04 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:52:06 [http-nio-28852-exec-3] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:52:06 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:52:07 [http-nio-28852-exec-5] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:52:07 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:52:09 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:52:09 [http-nio-28852-exec-7] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:52:11 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:11 [http-nio-28852-exec-9] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:52:13 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:52:13 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:52:15 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:52:15 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:52:17 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:17 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:52:19 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:19 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:52:21 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:21 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:52:23 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:23 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:52:25 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:25 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:52:25 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:25 [http-nio-28852-exec-3] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 18:52:25 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:25 [http-nio-28852-exec-3] INFO  security.event.logger - LOCK_USER
+2022-12-31 18:52:26 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:52:26 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:57:39 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 18:57:39 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:57:40 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 18:57:40 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:57:42 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:57:42 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:57:46 [http-nio-28852-exec-9] INFO  security.event.logger - Anonymous
+2022-12-31 18:57:46 [http-nio-28852-exec-9] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:57:47 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 18:57:47 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 18:57:51 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:57:51 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:57:53 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 18:57:53 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:57:55 [http-nio-28852-exec-9] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 18:57:55 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:58:14 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:58:14 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 18:58:16 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:58:16 [http-nio-28852-exec-5] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 18:58:18 [http-nio-28852-exec-10] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:58:18 [http-nio-28852-exec-10] INFO  security.event.logger - DELETE_USER
+2022-12-31 18:58:22 [http-nio-28852-exec-2] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:58:22 [http-nio-28852-exec-2] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 18:58:24 [http-nio-28852-exec-4] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:58:24 [http-nio-28852-exec-4] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:58:26 [http-nio-28852-exec-7] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:58:26 [http-nio-28852-exec-7] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:58:27 [http-nio-28852-exec-5] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 18:58:27 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:58:29 [http-nio-28852-exec-10] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:58:29 [http-nio-28852-exec-10] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:58:31 [http-nio-28852-exec-2] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:58:31 [http-nio-28852-exec-2] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:58:33 [http-nio-28852-exec-4] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:58:33 [http-nio-28852-exec-4] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:58:35 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:58:35 [http-nio-28852-exec-7] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 18:58:37 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:58:37 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:58:39 [http-nio-28852-exec-10] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:58:39 [http-nio-28852-exec-10] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:58:41 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:58:41 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:58:43 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:58:43 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:58:44 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:58:44 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 18:58:44 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:58:44 [http-nio-28852-exec-8] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 18:58:44 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 18:58:44 [http-nio-28852-exec-8] INFO  security.event.logger - LOCK_USER
+2022-12-31 18:58:47 [http-nio-28852-exec-2] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 18:58:47 [http-nio-28852-exec-2] INFO  security.event.logger - UNLOCK_USER
+2022-12-31 19:13:22 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 19:13:22 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:13:23 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 19:13:23 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:13:25 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:13:25 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 19:13:29 [http-nio-28852-exec-7] INFO  security.event.logger - Anonymous
+2022-12-31 19:13:29 [http-nio-28852-exec-7] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:13:31 [http-nio-28852-exec-9] INFO  security.event.logger - Anonymous
+2022-12-31 19:13:31 [http-nio-28852-exec-9] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:13:35 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:13:35 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:13:37 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 19:13:37 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:13:39 [http-nio-28852-exec-7] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 19:13:39 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:13:58 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:13:58 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 19:14:00 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:14:00 [http-nio-28852-exec-5] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 19:14:02 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:14:02 [http-nio-28852-exec-1] INFO  security.event.logger - DELETE_USER
+2022-12-31 19:14:06 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:14:06 [http-nio-28852-exec-3] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 19:14:08 [http-nio-28852-exec-5] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:14:08 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:14:09 [http-nio-28852-exec-8] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:14:09 [http-nio-28852-exec-8] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:14:11 [http-nio-28852-exec-10] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:14:11 [http-nio-28852-exec-10] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:14:13 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:14:13 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:14:15 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:14:15 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:14:17 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:14:17 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:14:19 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:14:19 [http-nio-28852-exec-8] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:14:21 [http-nio-28852-exec-10] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:14:21 [http-nio-28852-exec-10] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:14:23 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:14:23 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:14:25 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:14:25 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:14:26 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:14:26 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:14:28 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:14:28 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:14:28 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:14:28 [http-nio-28852-exec-8] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 19:14:28 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:14:28 [http-nio-28852-exec-8] INFO  security.event.logger - LOCK_USER
+2022-12-31 19:14:31 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:14:31 [http-nio-28852-exec-1] INFO  security.event.logger - UNLOCK_USER
+2022-12-31 19:29:12 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 19:29:12 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:29:13 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 19:29:13 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:29:15 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:29:15 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 19:29:19 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 19:29:19 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:29:21 [http-nio-28852-exec-6] INFO  security.event.logger - Anonymous
+2022-12-31 19:29:21 [http-nio-28852-exec-6] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:29:25 [http-nio-28852-exec-2] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:29:25 [http-nio-28852-exec-2] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:29:27 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 19:29:27 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:29:29 [http-nio-28852-exec-4] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 19:29:29 [http-nio-28852-exec-4] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:29:48 [http-nio-28852-exec-4] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:29:48 [http-nio-28852-exec-4] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 19:29:50 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:29:50 [http-nio-28852-exec-8] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 19:29:52 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:29:52 [http-nio-28852-exec-1] INFO  security.event.logger - DELETE_USER
+2022-12-31 19:29:55 [http-nio-28852-exec-6] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:29:55 [http-nio-28852-exec-6] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 19:29:57 [http-nio-28852-exec-10] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:29:57 [http-nio-28852-exec-10] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:29:59 [http-nio-28852-exec-4] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:29:59 [http-nio-28852-exec-4] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:30:01 [http-nio-28852-exec-8] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:30:01 [http-nio-28852-exec-8] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:30:03 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:30:03 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:30:05 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:05 [http-nio-28852-exec-6] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:30:07 [http-nio-28852-exec-10] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:30:07 [http-nio-28852-exec-10] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:30:09 [http-nio-28852-exec-4] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:30:09 [http-nio-28852-exec-4] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:30:10 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:10 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:12 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:12 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:14 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:14 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:16 [http-nio-28852-exec-10] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:16 [http-nio-28852-exec-10] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:18 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:18 [http-nio-28852-exec-4] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:18 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:18 [http-nio-28852-exec-4] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 19:30:18 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:18 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:18 [http-nio-28852-exec-4] INFO  security.event.logger - LOCK_USER
+2022-12-31 19:30:21 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:30:21 [http-nio-28852-exec-1] INFO  security.event.logger - UNLOCK_USER
+2022-12-31 19:30:24 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:24 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:26 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:26 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:27 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:27 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:29 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:29 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:32 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:32 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:30:34 [http-nio-28852-exec-10] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:30:34 [http-nio-28852-exec-10] INFO  security.event.logger - LOCK_USER
+2022-12-31 19:30:35 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:30:35 [http-nio-28852-exec-4] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:32:51 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 19:32:52 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:32:53 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 19:32:53 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:32:55 [http-nio-28852-exec-4] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:32:55 [http-nio-28852-exec-4] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 19:32:59 [http-nio-28852-exec-7] INFO  security.event.logger - Anonymous
+2022-12-31 19:32:59 [http-nio-28852-exec-7] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:33:01 [http-nio-28852-exec-9] INFO  security.event.logger - Anonymous
+2022-12-31 19:33:01 [http-nio-28852-exec-9] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:33:04 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:04 [http-nio-28852-exec-4] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:33:06 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 19:33:06 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:33:08 [http-nio-28852-exec-7] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 19:33:08 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:33:27 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:33:27 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 19:33:29 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:33:29 [http-nio-28852-exec-5] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 19:33:31 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:33:31 [http-nio-28852-exec-7] INFO  security.event.logger - DELETE_USER
+2022-12-31 19:33:35 [http-nio-28852-exec-9] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:33:35 [http-nio-28852-exec-9] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 19:33:37 [http-nio-28852-exec-1] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:33:37 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:33:39 [http-nio-28852-exec-3] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:33:39 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:33:40 [http-nio-28852-exec-5] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 19:33:40 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:33:42 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:33:42 [http-nio-28852-exec-7] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:33:44 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:44 [http-nio-28852-exec-9] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:33:46 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:33:46 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:33:48 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:33:48 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 19:33:50 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:50 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:33:52 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:52 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:33:54 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:54 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:33:56 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:56 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:33:57 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:57 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:33:57 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:57 [http-nio-28852-exec-3] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 19:33:57 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:57 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:33:57 [http-nio-28852-exec-3] INFO  security.event.logger - LOCK_USER
+2022-12-31 19:34:00 [http-nio-28852-exec-6] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:34:00 [http-nio-28852-exec-6] INFO  security.event.logger - UNLOCK_USER
+2022-12-31 19:34:03 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:34:03 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:05 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:34:05 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:07 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:34:07 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:09 [http-nio-28852-exec-11] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:34:09 [http-nio-28852-exec-11] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:12 [http-nio-28852-exec-14] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:34:12 [http-nio-28852-exec-14] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:14 [http-nio-28852-exec-16] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:34:14 [http-nio-28852-exec-16] INFO  security.event.logger - LOCK_USER
+2022-12-31 19:34:15 [http-nio-28852-exec-17] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 19:34:15 [http-nio-28852-exec-17] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:17 [http-nio-28852-exec-21] INFO  security.event.logger - Anonymous
+2022-12-31 19:34:17 [http-nio-28852-exec-21] INFO  security.event.logger - CREATE_USER
+2022-12-31 19:34:18 [http-nio-28852-exec-22] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:18 [http-nio-28852-exec-22] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:19 [http-nio-28852-exec-23] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:19 [http-nio-28852-exec-23] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:20 [http-nio-28852-exec-24] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:20 [http-nio-28852-exec-24] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:21 [http-nio-28852-exec-25] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:21 [http-nio-28852-exec-25] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:23 [http-nio-28852-exec-27] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:23 [http-nio-28852-exec-27] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:25 [http-nio-28852-exec-29] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:25 [http-nio-28852-exec-29] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:26 [http-nio-28852-exec-30] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:26 [http-nio-28852-exec-30] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:27 [http-nio-28852-exec-31] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:27 [http-nio-28852-exec-31] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:28 [http-nio-28852-exec-32] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:28 [http-nio-28852-exec-32] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:29 [http-nio-28852-exec-33] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:29 [http-nio-28852-exec-33] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:29 [http-nio-28852-exec-33] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:29 [http-nio-28852-exec-33] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 19:34:29 [http-nio-28852-exec-33] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:29 [http-nio-28852-exec-33] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 19:34:29 [http-nio-28852-exec-33] INFO  security.event.logger - LOCK_USER
+2022-12-31 19:34:30 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:34:30 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:31 [http-nio-28852-exec-6] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:34:31 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:32 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:34:32 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 19:34:33 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 19:34:33 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:08:10 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 20:08:10 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 20:08:11 [http-nio-28852-exec-2] INFO  security.event.logger - Anonymous
+2022-12-31 20:08:11 [http-nio-28852-exec-2] INFO  security.event.logger - CREATE_USER
+2022-12-31 20:08:13 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:08:13 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 20:08:17 [http-nio-28852-exec-9] INFO  security.event.logger - Anonymous
+2022-12-31 20:08:17 [http-nio-28852-exec-9] INFO  security.event.logger - CREATE_USER
+2022-12-31 20:08:19 [http-nio-28852-exec-1] INFO  security.event.logger - Anonymous
+2022-12-31 20:08:19 [http-nio-28852-exec-1] INFO  security.event.logger - CREATE_USER
+2022-12-31 20:08:22 [http-nio-28852-exec-6] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:08:22 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:08:24 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@google.com
+2022-12-31 20:08:24 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:08:26 [http-nio-28852-exec-9] INFO  security.event.logger - nautilus@pompilius.com
+2022-12-31 20:08:26 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:08:45 [http-nio-28852-exec-3] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:08:45 [http-nio-28852-exec-3] INFO  security.event.logger - GRANT_ROLE
+2022-12-31 20:08:47 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:08:47 [http-nio-28852-exec-5] INFO  security.event.logger - REMOVE_ROLE
+2022-12-31 20:08:49 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:08:49 [http-nio-28852-exec-7] INFO  security.event.logger - DELETE_USER
+2022-12-31 20:08:52 [http-nio-28852-exec-9] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:08:52 [http-nio-28852-exec-9] INFO  security.event.logger - CHANGE_PASSWORD
+2022-12-31 20:08:54 [http-nio-28852-exec-8] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 20:08:54 [http-nio-28852-exec-8] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 20:08:56 [http-nio-28852-exec-1] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 20:08:56 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 20:08:58 [http-nio-28852-exec-3] INFO  security.event.logger - ivanivanov@acme.com
+2022-12-31 20:08:58 [http-nio-28852-exec-3] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 20:09:00 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:00 [http-nio-28852-exec-5] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 20:09:02 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:02 [http-nio-28852-exec-9] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 20:09:03 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:03 [http-nio-28852-exec-8] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 20:09:05 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:05 [http-nio-28852-exec-1] INFO  security.event.logger - ACCESS_DENIED
+2022-12-31 20:09:07 [http-nio-28852-exec-3] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:07 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:09 [http-nio-28852-exec-5] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:09 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:11 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:11 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:13 [http-nio-28852-exec-8] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:13 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:14 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:14 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:14 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:14 [http-nio-28852-exec-1] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 20:09:14 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:14 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:14 [http-nio-28852-exec-1] INFO  security.event.logger - LOCK_USER
+2022-12-31 20:09:17 [http-nio-28852-exec-5] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:17 [http-nio-28852-exec-5] INFO  security.event.logger - UNLOCK_USER
+2022-12-31 20:09:20 [http-nio-28852-exec-7] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:20 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:22 [http-nio-28852-exec-10] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:22 [http-nio-28852-exec-10] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:24 [http-nio-28852-exec-2] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:24 [http-nio-28852-exec-2] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:25 [http-nio-28852-exec-4] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:25 [http-nio-28852-exec-4] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:28 [http-nio-28852-exec-9] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:28 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:30 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:30 [http-nio-28852-exec-8] INFO  security.event.logger - LOCK_USER
+2022-12-31 20:09:31 [http-nio-28852-exec-1] INFO  security.event.logger - maxmustermann@acme.com
+2022-12-31 20:09:31 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:34 [http-nio-28852-exec-4] INFO  security.event.logger - Anonymous
+2022-12-31 20:09:34 [http-nio-28852-exec-4] INFO  security.event.logger - CREATE_USER
+2022-12-31 20:09:34 [http-nio-28852-exec-5] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:34 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:35 [http-nio-28852-exec-6] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:35 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:36 [http-nio-28852-exec-9] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:36 [http-nio-28852-exec-9] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:37 [http-nio-28852-exec-7] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:37 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:39 [http-nio-28852-exec-10] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:39 [http-nio-28852-exec-10] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:41 [http-nio-28852-exec-2] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:41 [http-nio-28852-exec-2] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:42 [http-nio-28852-exec-3] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:42 [http-nio-28852-exec-3] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:43 [http-nio-28852-exec-4] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:43 [http-nio-28852-exec-4] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:44 [http-nio-28852-exec-5] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:44 [http-nio-28852-exec-5] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:44 [http-nio-28852-exec-6] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:44 [http-nio-28852-exec-6] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:44 [http-nio-28852-exec-6] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:44 [http-nio-28852-exec-6] INFO  security.event.logger - BRUTE_FORCE
+2022-12-31 20:09:44 [http-nio-28852-exec-6] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:44 [http-nio-28852-exec-6] INFO  security.event.logger - petrpetrov@acme.com
+2022-12-31 20:09:44 [http-nio-28852-exec-6] INFO  security.event.logger - LOCK_USER
+2022-12-31 20:09:45 [http-nio-28852-exec-7] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:45 [http-nio-28852-exec-7] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:46 [http-nio-28852-exec-8] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:46 [http-nio-28852-exec-8] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:47 [http-nio-28852-exec-10] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:47 [http-nio-28852-exec-10] INFO  security.event.logger - LOGIN_FAILED
+2022-12-31 20:09:48 [http-nio-28852-exec-1] INFO  security.event.logger - johndoe@acme.com
+2022-12-31 20:09:48 [http-nio-28852-exec-1] INFO  security.event.logger - LOGIN_FAILED
